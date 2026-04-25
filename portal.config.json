@@ -1,8 +1,9 @@
 {
-        "version": 1,
-        "kind": "page",
-        "title": "Bienvenido a mi Portfolio",
-        "section": "Explora mis desarrollos y experimentos",
-        "description": "Este es un espacio donde comparto mis proyectos de codigo abierto, herramientas y demos interactivas.",
-        "icon": "globe"
+          "version": 1,
+          "kind": "page",
+          "title": "Maxxi-Millian",
+          "section": "Portfolio Artistico",
+          "description": "Explorando los limites de la percepcion visual a traves del arte digital y la expresion cromatica.",
+          "icon": "palette",
+          "iframe": true
 }
