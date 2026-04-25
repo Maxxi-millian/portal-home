@@ -1,9 +1,9 @@
 {
-          "version": 1,
-          "kind": "page",
-          "title": "Maxxi-Millian",
-          "section": "Portfolio Artistico",
-          "description": "Explorando los limites de la percepcion visual a traves del arte digital y la expresion cromatica.",
-          "icon": "palette",
-          "iframe": true
+            "version": 1,
+            "kind": "page",
+            "title": "Maxxi-Millian",
+            "section": "Portfolio Artistico",
+            "description": "Explorando los limites de la percepcion visual a traves del arte digital y la expresion cromatica.",
+            "icon": "palette",
+            "iframe": true
 }
