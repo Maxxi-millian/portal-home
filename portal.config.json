@@ -1,11 +1,8 @@
 {
-      "version": 1,
-      "kind": "page",
-      "title": "Mi Portal de Proyectos",
-      "section": "Inicio",
-      "icon": "globe",
-      "heroTitle": "Bienvenido a mi Portfolio",
-      "heroSubtitle": "Explora mis desarrollos y experimentos",
-      "heroDescription": "Este es un espacio donde comparto mis proyectos de codigo abierto, herramientas y demos interactivas.",
-      "heroCtaLabel": "Ver mis proyectos"
+        "version": 1,
+        "kind": "page",
+        "title": "Bienvenido a mi Portfolio",
+        "section": "Explora mis desarrollos y experimentos",
+        "description": "Este es un espacio donde comparto mis proyectos de codigo abierto, herramientas y demos interactivas.",
+        "icon": "globe"
 }
